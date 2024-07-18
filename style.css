@@ -69,6 +69,8 @@ img {
 
 .testimonial-1 img {
     border: 2px solid rgb(162, 117, 233);
+    position: relative;
+    z-index: 1;
 }
 .testimonial-2 img {
     border: 2px solid rgb(248, 248, 248);
